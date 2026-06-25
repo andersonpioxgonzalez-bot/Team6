@@ -222,6 +222,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c5ab00725d6144413b757f19bfe8b651, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 28b101d0c61da435494f843965294e8b, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -885,6 +889,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7f007cca79521456bb87f72b81ebd55e, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: c8ab2a4af57cc44cbbf9307df3617a7d, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1137,6 +1145,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: d2852c17370574f198058bfbaa726959, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 170d762ab6cd9486e81dfa82f6d06f9b, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1727,6 +1739,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: a5fe73b0207da44cdb22110056397cd2, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 57950b692552c4b01a2de41543cf2e20, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2064,6 +2080,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 6db1d666adf18457ca8143ecb3563111, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: b9932f8d464f04212950ef930978f688, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
